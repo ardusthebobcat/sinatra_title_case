@@ -7,7 +7,6 @@ class String
         if(word === split_sentence[0])
           word.capitalize!()
         end
-        break
       else
         word.capitalize!()
       end
